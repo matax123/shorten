@@ -1,0 +1,14 @@
+{
+  "name": "email-sender",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "firebase": "^10.11.0",
+    "resend": "^3.2.0"
+  }
+}
